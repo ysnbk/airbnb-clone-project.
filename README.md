@@ -2,12 +2,6 @@
 
 A full-featured **Airbnb clone** built using **React.js**, replicating the core functionality and design of the popular vacation rental platform. This project demonstrates modern front-end development practices and showcases responsive design, routing, API integration, and reusable components.
 # UI/UX Design Planning
-**Navbar**
-
-    Site links
-    Company information
-    Social media links
-    Copyright information
 
 **Color Styles:**
 
@@ -37,6 +31,8 @@ A full-featured **Airbnb clone** built using **React.js**, replicating the core 
 
 # UI Component Patterns
 
+ **Navbar**
+
     Logo
     Search bar
     User navigation
@@ -51,3 +47,8 @@ A full-featured **Airbnb clone** built using **React.js**, replicating the core 
     Responsive layout
 
 **Footer**
+
+    Site links
+    Company information
+    Social media links
+    Copyright information
